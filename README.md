@@ -1,1 +1,1 @@
-## Practice problems for [fullstackopen.com](www.fullstackopen.com)
+## Practice problems for [fullstackopen.com](https://www.fullstackopen.com/en)
